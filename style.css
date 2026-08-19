@@ -1,0 +1,20 @@
+body {
+    background-color: #f7f3ec;
+    color: #1c1c1c;
+    font-family: Georgia, serif;
+    text-align: center;
+    margin: 0;
+    padding: 80px 20px;
+}
+
+h1 {
+    font-size: 56px;
+    font-weight: normal;
+    letter-spacing: 4px;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 20px;
+    letter-spacing: 1px;
+}
